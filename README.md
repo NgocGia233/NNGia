@@ -1,2 +1,0 @@
-# NNGia
-LocketGold
