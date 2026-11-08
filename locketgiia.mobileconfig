@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>PayloadContent</key>
+ <array>
+  <dict>
+   <key>PayloadCertificateFileName</key>
+   <string>LocketGold ❤️.cer</string>
+   <key>PayloadContent</key>
+   <data>
+   MIIDZDCCAkygAwIBAgIQAXudrCDm2pkWIKpDKgrpyDANBgkqhkiG
+   9w0BAQsFADBMMRMwEQYDVQQDEwpMb2NrRHb2xkMRMwEQYDVQQK
+   EwPMb2NrRHb2xkMRMEQYDVQQLEwpMb2NhcBSb290MQswCQYDVQQG
+   EwJWTJAeFw0yNjExMDExNjQzNDdaFw0zNjEwMjNDDaMEWxEzAR
+   BgNVBAMTCkxvy2TledvbGQxEzARBgNVBAoTCkxvy2ldEdvbGQx
+   EzARBgNVBASTCkxvy2FSFljvb3QXCzAJBgNVBAYTAIZOMIIBIjAN
+   BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3yBr1A6uhX2kQTko
+   9ZQnPIauKKITZFV0//pQULqhRg6AIrbT3RAV2DV2LPu/p1bmirds
+   IP0Q8KSSqwWYntSoOYyME+4NnHZHVQdoZp3ngvSRAvyrvBUOBLV6
+   YSfoKxWu7kuohQULaO626CR07C4CgyHjtDSw9k/om5fkuvKXlx6/
+   /WWEh+FsnxBwyT7P9JVBaLHzzPDPgLQ1Dl1GMhISzXjSP5cPHIdy
+   73J4JebMPIVjXtvZnZluGiXXtgH8VooLTq4wOM5JiliRbe+3r6KL
+   o3Vk9cSGBU2APajob/8lekhMXy9X7/2sMe64phEBFXHzW+9akz/
+   ornToynIlVyC9VwIDAQABo0IwQDAPBgNVHRMBAf8EBTADAQH/MA4
+   GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUSqgCnwfstaQJwMhIW+i
+   vGzDGnmAwDQYJKoZIhvcNAQELBQADgGEBACrZbiBTXLJSgYJxkTW
+   09Z8ZXwqo8sFyqGQiuXjdhfMdNufXc9HolGv2ymmdRCP6kuu3ulz
+   EteSZrQRGiWDHIUT7gb6m2ahAa0+
+   </data>
+   <key>PayloadDescription</key>
+   <string>Root certificate for dns.follow1s.net</string>
+   <key>PayloadDisplayName</key>
+   <string>LocketGold ❤️ Root CA</string>
+   <key>PayloadIdentifier</key>
+   <string>com.apple.security.root.6DDC034B-89D7-4920-BFD1-748E0DB4DCD4</string>
+   <key>PayloadType</key>
+   <string>com.apple.security.root</string>
+   <key>PayloadUUID</key>
+   <string>AB6CC70A-2088-45AD-BE20-E5BC7E080145</string>
+   <key>PayloadVersion</key>
+   <integer>1</integer>
+  </dict>
+ </array>
+ <key>PayloadDescription</key>
+ <string>Người dùng: nzaaa233
+Hạn sử dụng: 23/03/2033 (03:18)
+Hồ sơ DNS cấu hình kích hoạt bản quyền Locket Gold.</string>
+ <key>PayloadDisplayName</key>
+ <string>LocketGold ❤️</string>
+ <key>PayloadIdentifier</key>
+ <string>com.selfhosted.doh.C57E068E-AEA5-4085-BCB3-3716F4D835ED</string>
+ <key>PayloadOrganization</key>
+ <string>LocketGold • HSD: 23/03/2033</string>
+ <key>PayloadRemovalDisallowed</key>
+ <false/>
+ <key>PayloadType</key>
+ <string>Configuration</string>
+ <key>PayloadUUID</key>
+ <string>6BBA9084-7336-4D2B-8673-ABC7DCCB1B7D</string>
+ <key>PayloadVersion</key>
+ <integer>1</integer>
+</dict>
+</plist>
